@@ -1,0 +1,95 @@
+@charset "UTF-8";
+/* CSS Document */
+body {
+	margin-top: 20px; /* 50px is the height of the navbar - change this if the navbarn height changes */
+	
+}
+
+.left-section{
+    width: 60%;
+float: left;
+display: block;
+}
+
+ .right-section {
+	width: 25.8258%;
+	float: left;
+	display: block;
+	margin-right: 9.8987%;
+	margin-top: 2%;
+	
+}
+ .left-sub{
+	float:left;	
+	left:25%;
+}
+
+body, h1, h2, h3, h4, h5, h6 {
+	font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight: 700;
+}
+
+
+html{
+	height: 100%;
+	width: 100%;	
+	
+}
+
+.page-header{
+	padding-top: 20px;
+	margin-top: 50px;
+	margin-left:30px;
+	font-size:36px;	
+}
+
+/*=====stupid header fonts to make it pretty==== */
+
+.catchphrase{
+	
+	text-shadow:2px 3px #E4E4E4;
+
+	font-style:normal;
+	font-weight:600;
+}
+/* ===aboutCase===*/
+.bio{
+	font-size: 16px;
+	
+}
+.infoBox p{
+	font-size:18px;
+	font-weight:bold;
+	font-family:Verdana, Geneva, sans-serif;
+}
+
+/*=====aboutInfo stuff==== */
+
+	.aboutInfo{
+	width: 79.0698%;
+	margin: 0px 10.4651%;
+	 	
+	}
+	
+	aboutSoical{
+	display:block;
+	height:50px;
+	width:50px;	
+	}
+	
+h3.greeter{
+	font-size:28px;
+	text-decoration:underline	
+}
+
+footer{
+	margin-bottom: 0px;
+    text-align: right;
+    background-color: rgb(247, 247, 247);
+    font-stretch: expanded;
+    height: 50px;
+    padding-top: 2%;
+    margin-top: 60%;
+	margin-left:30px;
+	margin-right:50px;
+}

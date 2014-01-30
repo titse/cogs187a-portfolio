@@ -1,0 +1,26 @@
+@charset "UTF-8";
+/* CSS Document */
+/* Portfolio.css to be used together landing page however this 
+will include the the formatting that I want*/
+
+body {
+	margin-top: 50px; /* 50px is the height of the navbar - change this if the navbarn height changes */
+}
+
+footer {
+	margin: 20px 0;
+	padding-top: 35px;
+	background-color: #F7F7F7;
+	text-align:right;
+	font-stretch:expanded;
+}
+html{
+	height: 100%;
+	width: 100%;	
+	
+}
+h3{
+	font:Arial, Helvetica, sans-serif;
+	font-size:28px;
+	text-emphasis:accent;	
+}
